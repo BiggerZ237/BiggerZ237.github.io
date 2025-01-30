@@ -1,0 +1,20 @@
+h1 {
+  text-align: center;
+  font-weight: bold;
+  font-size: 80px;
+  padding: 150px;
+  background-color: #6699cc;
+}
+
+div {
+  text-align: center;
+  font-weight: bold;
+  font-size: 60px;
+}
+
+p {
+  font-family: italic;
+  font-size: 30px;
+}
+
+/*# sourceMappingURL=test.css.map */

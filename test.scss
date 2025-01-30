@@ -1,0 +1,19 @@
+$text:center;
+$baby_blue:#6699cc;
+
+h1{
+    text-align:$text;
+    font-weight:bold;
+    font-size:80px;
+    padding: 150px;
+    background-color:$baby-blue
+}
+div{
+    text-align:$text;
+    font-weight:bold;
+    font-size:60px
+}
+p{
+    font-family:italic;
+    font-size:30px;
+}
